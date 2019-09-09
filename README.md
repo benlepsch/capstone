@@ -1,2 +1,2 @@
 # capstone
-repo for capstone project
+git repo for capstone project
