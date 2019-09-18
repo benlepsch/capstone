@@ -1,2 +1,2 @@
 # capstone
-git repo for capstone project
+git repo for Epic Angry Bird Project
