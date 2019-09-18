@@ -1,2 +1,2 @@
 # capstone
-git repo for Epic Angry Bird Project
+This is the GitHub Repo for 9 Epic Angry Bird Project
